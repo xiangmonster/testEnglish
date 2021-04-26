@@ -1,3 +1,3 @@
-here is REAADME
+here is README
 
-[click it]
+[click it](https://github.com/xiangmonster/testEnglish/blob/main/hello.md)

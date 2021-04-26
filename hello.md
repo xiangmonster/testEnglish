@@ -1,22 +1,21 @@
-heading
-=========
-## Heading1
-#### Heading 2
+[README](https://github.com/xiangmonster/testEnglish/blob/main/README.md)
+## HeadingH2
+#### HeadingH4
 > a block quote
 > 
 >> a little block
-> # jiapeiru
-> - 21180401
+
+- 21180401
 
 1. What
 2. R
 3. U
 4. scaring
- **bolded text**
+ **bolded**
  
- _italicized text_
+ _italicized_
 
-~~strikethrough text~~
+~~strikethrough~~
 
 ...
 

@@ -17,11 +17,11 @@
 
 ~~strikethrough~~
 
-...
+a horizontal rule
 
 ---
 
-...
+a horizontal rule
 
 [translate](https://translate.google.cn/)
 

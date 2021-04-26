@@ -4,5 +4,5 @@ heading
 #### Heading 2
 > a block<br>
 <br>
-I like ***English***<br>
+I like **English**
 hello__look__atME

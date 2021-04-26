@@ -23,6 +23,12 @@ a horizontal rule
 
 a horizontal rule
 
+<html>
+ <head>
+  Tony is wonderful!<br>
+  </head>
+</html>
+
 [translate](https://translate.google.cn/)
 
 |Name     |Num     |
@@ -31,4 +37,5 @@ a horizontal rule
 
 [pic](https://github.com/xiangmonster/testEnglish/blob/main/v2-4cd800698fdb22d044baf993a2b3b54a_hd.jpg)
 
-[another pic]
+[![Dio](https://github.com/xiangmonster/testEnglish/blob/main/v2-d8484a69ab14bf27fc3801fb472c7f87_hd.jpg)]
+

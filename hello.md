@@ -12,8 +12,17 @@ heading
 2. R
 3. U
 4. scaring
+ **bolded text**
+ 
+ _italicized text_
 
-***English***
+~~strikethrough text~~
+
+...
+
+---
+
+...
 
 [translate](https://translate.google.cn/)
 
